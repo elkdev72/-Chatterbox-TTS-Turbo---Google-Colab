@@ -2,7 +2,7 @@
 
 Run [Chatterbox TTS Turbo](https://github.com/devnen/chatterbox-v2) on Google Colab with GPU acceleration for high-quality text-to-speech synthesis.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Chatterbox_TTS_Turbo_Documented.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elkdev72/-Chatterbox-TTS-Turbo---Google-Colab/blob/main/Chatterbox_TTS_Turbo_Documented.ipynb)
 
 ## ✨ Features
 
